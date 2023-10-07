@@ -25,6 +25,5 @@ class Supplier extends Human {
 
   void receivePayment(double amount) {
     print('$name received a payment of $amount.');
-    // Implement the payment handling logic here
   }
 }
